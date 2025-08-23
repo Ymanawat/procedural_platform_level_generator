@@ -39,7 +39,7 @@ The true beauty of dynamic level generation lies in the element of surprise. No 
 
 ## Play Star Dodge
 
-[Click here to play Star Dodge on itch.io](YOUR_GAME_LINK_HERE)
+[Click here to play Star Dodge on itch.io](https://yogendramanawat.itch.io/star-dodge)
 
 ## Conclusion
 
